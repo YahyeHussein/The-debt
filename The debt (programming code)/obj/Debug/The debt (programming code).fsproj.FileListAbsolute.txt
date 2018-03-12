@@ -1,0 +1,8 @@
+C:\BCU Computer Science\Year 2\S1\Declarative Programming\CourseWork\The debt (programming code)\The debt (programming code)\The debt (programming code)\bin\Debug\The_debt__programming_code_.exe.config
+C:\BCU Computer Science\Year 2\S1\Declarative Programming\CourseWork\The debt (programming code)\The debt (programming code)\The debt (programming code)\bin\Debug\The_debt__programming_code_.XML
+C:\BCU Computer Science\Year 2\S1\Declarative Programming\CourseWork\The debt (programming code)\The debt (programming code)\The debt (programming code)\bin\Debug\The_debt__programming_code_.exe
+C:\BCU Computer Science\Year 2\S1\Declarative Programming\CourseWork\The debt (programming code)\The debt (programming code)\The debt (programming code)\bin\Debug\The_debt__programming_code_.pdb
+C:\BCU Computer Science\Year 2\S1\Declarative Programming\CourseWork\The debt (programming code)\The debt (programming code)\The debt (programming code)\bin\Debug\FSharp.Core.dll
+C:\BCU Computer Science\Year 2\S1\Declarative Programming\CourseWork\The debt (programming code)\The debt (programming code)\The debt (programming code)\bin\Debug\FSharp.Core.xml
+C:\BCU Computer Science\Year 2\S1\Declarative Programming\CourseWork\The debt (programming code)\The debt (programming code)\The debt (programming code)\obj\Debug\The_debt__programming_code_.exe
+C:\BCU Computer Science\Year 2\S1\Declarative Programming\CourseWork\The debt (programming code)\The debt (programming code)\The debt (programming code)\obj\Debug\The_debt__programming_code_.pdb
